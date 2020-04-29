@@ -5,7 +5,7 @@ module mod0 (
   output logic       	POB2
 );
 
-logic       	ins1_OV1_3_to_OV1_3;
+logic [3:0]   ins1_OV1_3_to_OV1_3;
 logic       	ins2_OB1_to_POB2;
 
 mod1 ins1 (
