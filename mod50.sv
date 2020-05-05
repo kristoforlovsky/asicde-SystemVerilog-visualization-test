@@ -135,10 +135,10 @@ mod4Bports ins7 (
 );
 
 mod4Bports ins8 (
-  .I1    (ins2_O1_to_8_I13_O1_to_8_I1),
-  .I2    (ins2_O2_to_8_I23_O2_to_8_I2),
-  .O1    (ins8_O1_to_13_I18_O1_to_14_I1),
-  .O2    (ins8_O2_to_13_I28_O2_to_14_I2)
+  .I1    (ins2_O1_to_8_I1),
+  .I2    (ins2_O2_to_8_I2),
+  .O1    (ins8_O1_to_13_I1),
+  .O2    (ins8_O2_to_13_I2)
 );
 
 mod4Bports ins9 (
