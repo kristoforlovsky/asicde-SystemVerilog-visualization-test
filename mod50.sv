@@ -1,6 +1,3 @@
-Home
-Settings
-Logout
 module TestModule (
   input logic       	A,
   input logic       	B,
@@ -277,8 +274,3 @@ assign OK  = INS24_O1_to_OK;
 assign OL  = INS24_O2_to_OL;
 
 endmodule: TestModule
-Add moduleAdd standalone portSave diagramLoad diagramSave diagram and code
-Logic
-Complex Logic
-Net element move:
-
