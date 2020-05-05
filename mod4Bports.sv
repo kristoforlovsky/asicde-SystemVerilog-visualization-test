@@ -1,4 +1,4 @@
-module TestModule (
+module mod4Bports (
   input logic       	I1,
   input logic       	I2,
   output logic       	O1,
@@ -9,4 +9,4 @@ module TestModule (
 assign O1  = I1_to_O1;
 assign O2  = I2_to_O2;
 
-endmodule: TestModule
+endmodule: mod4Bports
