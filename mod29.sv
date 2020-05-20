@@ -1,4 +1,4 @@
-module TestModule (
+module mod29 (
   input logic       	pib30,
   input logic [2:0] 	piv31_2,
   output logic       	pob32,
@@ -36,4 +36,4 @@ assign pob32    = ins31_ob1_to_pob32;
 assign pov33_2  = ins33_ov1_2_to_pov33_2;
 assign pob34    = ins32_ob1_to_pob34;
 
-endmodule: TestModule
+endmodule: mod29
